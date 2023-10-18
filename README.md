@@ -5,5 +5,5 @@ This project is developed through typescript using node.js, inquirer, chalk, cha
 
 To run this calculator you need to use npm :
 ```
-npm i muhammadyasincalculator
+npx muhammadyasincalculator
 ```
